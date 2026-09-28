@@ -1,0 +1,2 @@
+# clip-generator
+openclip
